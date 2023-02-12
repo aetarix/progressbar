@@ -1,2 +1,3 @@
 # progressbar
-Dependency For qb-core
+
+HTML edit for qbcore dependency 'progressbar' by Project Developments.
