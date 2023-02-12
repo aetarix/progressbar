@@ -8,3 +8,6 @@ https://youtu.be/4172rB0w7TY
 
 Preview (Imgur):
 https://i.imgur.com/DjlGQ8Z.png
+
+Any questions, join our discord community at:
+https://discord.gg/jxX4NgUVxF
